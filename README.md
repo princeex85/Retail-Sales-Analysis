@@ -155,11 +155,11 @@ Features Included:
 
 ### Executive Dashboard
 
-![Dashboard](Images/Dashboard_Overview.png)
+![Dashboard](Images/Dashboard_Full.png)
 
 ### Detailed Dashboard
+
 ![Dashboard](Images/Dashboard_Overview.png)
-![Dashboard](Images/Dashboard_Full.png)
 
 ### Python EDA Dashboard
 
