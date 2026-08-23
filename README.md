@@ -151,13 +151,13 @@ Features Included:
 
 ## 📸 Dashboard Preview
 
-### Executive Dashboard
-
-![Executive Dashboard](Images/Executive_Dashboard.png)
-
 ### Detailed Dashboard
 
 ![Dashboard Overview](Images/Dashboard_overview.png)
+
+### Executive Dashboard
+
+![Executive Dashboard](Images/Executive_Dashboard.png)
 
 ### Python EDA Dashboard
 
