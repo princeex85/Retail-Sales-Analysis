@@ -149,17 +149,16 @@ Features Included:
 - Top Products Analysis
 - Business Insights Section
 
----
+## 📸 Dashboard Preview
 
-## 📷 Dashboard Preview
+### Executive Dashboard (Power BI)
 
-### Executive Dashboard
+![Detailed Dashboard](Images/Dashboard_Full.png)
 
-![Dashboard](Images/Dashboard_Full.png)
+### Detailed Dashboard (Power BI)
 
-### Detailed Dashboard
+![Executive Dashboard](Images/Dashboard_Overview.png)
 
-![Dashboard](Images/Dashboard_Overview.png)
 
 ### Python EDA Dashboard
 
