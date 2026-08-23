@@ -151,7 +151,7 @@ Features Included:
 
 ## 📸 Dashboard Preview
 
-### Detailed Dashboard
+### Executive Dashboard
 
 ![Dashboard Overview](Images/Dashboard_overview.png)
 
