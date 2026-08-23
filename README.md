@@ -151,14 +151,13 @@ Features Included:
 
 ## 📸 Dashboard Preview
 
-### Executive Dashboard (Power BI)
+### Executive Dashboard
 
-![Executive Dashboard](Images/Dashboard_Overview.png)
+![Executive Dashboard](Images/Executive_Dashboard.png)
 
-### Detailed Dashboard (Power BI)
+### Detailed Dashboard
 
-![Detailed Dashboard](Images/Dashboard_Full.png)
-
+![Dashboard Overview](Images/Dashboard_overview.png)
 
 ### Python EDA Dashboard
 
