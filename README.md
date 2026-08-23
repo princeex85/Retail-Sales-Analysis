@@ -161,6 +161,9 @@ Features Included:
 
 ![Dashboard](Images/Dashboard_Full.png)
 
+### Python EDA Dashboard
+
+![Python EDA](Images/python_eda_dashboard.png)
 ---
 
 ## 🔍 Key Insights
